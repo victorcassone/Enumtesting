@@ -9,6 +9,6 @@ public class Dogs extends Animal{
 	}
 	
 	public boolean isVictorAwesome(){
-		return true;
+		return false;
 	}
 }

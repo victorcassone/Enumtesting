@@ -12,5 +12,9 @@ public class Dogs extends Animal{
 		return false;
 	}
 	
-	
+
+	public void setDogOwner(){
+		
+	}
+
 }

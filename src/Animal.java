@@ -2,16 +2,16 @@
 public class Animal implements Life{
 	
 	private String favFood;
+	protected boolean isAlive;
 	
 	protected String getFavFood(){
 		return favFood;
+		
 	}
 	
 	public Animal(String ff){
 		this.favFood = ff;
-		this.favFood = "Pizza";
-		this.favFood = "Pizza";
-		String s = "Log.i(hello";
+		this.isAlive = true;
 	}
 
 	public Animal() {

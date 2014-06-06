@@ -9,6 +9,8 @@ public class Animal implements Life{
 	
 	public Animal(String ff){
 		this.favFood = ff;
+		this.favFood = "Pizza";
+		String s = "Log.i(hello";
 	}
 
 	public Animal() {

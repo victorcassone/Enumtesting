@@ -5,5 +5,10 @@ public class Dogs extends Animal{
 		this.isAlive = false;
 		isAlive = true;
 		isAlive = false;
+		
+	}
+	
+	public boolean isVictorAwesome(){
+		return true;
 	}
 }

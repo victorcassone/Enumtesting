@@ -2,7 +2,7 @@
 public class Animal implements Life{
 	
 	private String favFood;
-	private boolean isAlive;
+	protected boolean isAlive;
 	
 	protected String getFavFood(){
 		return favFood;

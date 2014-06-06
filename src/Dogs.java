@@ -11,4 +11,8 @@ public class Dogs extends Animal{
 	public boolean isVictorAwesome(){
 		return false;
 	}
+	
+	public void cheeseBalls(){
+		
+	}
 }
